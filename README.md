@@ -1,1 +1,3 @@
-# goit-node-cli
+# Demo
+
+![Demo](./img/demo.png "Demo")
